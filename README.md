@@ -1,6 +1,6 @@
 # Linux Basics for SysAdmin / IT Ops
 
-A practical reference repo covering core Linux concepts and commands, written for IT Ops / sysadmin work. Each topic is a standalone guide — skim the table below and jump to what you need.
+A practical reference repo covering core Linux concepts and commands, written for IT Ops / sysadmin work. Each topic is a standalone guide.</br>Skim the table below and jump to what you need.
 
 ## Contents
 
